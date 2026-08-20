@@ -42,9 +42,9 @@ Full method and the numbers that did *not* make this list: [`bench/REPORT.md`](h
 
 ## What it took to build
 
-⏱️ **1.3 hours** from the first command to the published repository, **1.3** of them active<br>
-💬 **266** exchanges with the model<br>
-✍️ **366,337** tokens written by the model, **62,226,324** counting everything sent and re-sent<br>
+⏱️ **1.4 hours** from the first command to the published repository, **1.4** of them active<br>
+💬 **313** exchanges with the model<br>
+✍️ **401,602** tokens written by the model, **82,576,285** counting everything sent and re-sent<br>
 🙋 **0** questions to a human<br>
 🧪 **54** tests
 
